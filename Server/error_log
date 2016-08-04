@@ -1,0 +1,6 @@
+insert into users(username, password, email)
+			 					values ('thasneem', '827ccb0eea8a706c4c34a16891f84e7b', 'mummu@ty.com') insert into users(username, password, email)
+			 					values ('mummu', '827ccb0eea8a706c4c34a16891f84e7b', 'mummuwje@yahoo.com') insert into users(username, password, email)
+			 					values ('thasneem', '827ccb0eea8a706c4c34a16891f84e7b', 'test@yahoo.com') insert into users(username, password, email)
+			 					values ('mummu', '827ccb0eea8a706c4c34a16891f84e7b', 'mummu@google.com') insert into users(username, password, email)
+			 					values ('muhammed', '827ccb0eea8a706c4c34a16891f84e7b', 'muhammed@yahoo.com') 
